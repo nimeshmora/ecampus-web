@@ -1,27 +1,33 @@
-# EcampusWeb
+## Name
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+E-Campus Web for Srilankan IT Students.
 
-## Development server
+## Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+E-Campus is an institute that mainly focuses on Bridging the gap between Srilankan IT Students and IT Industry. Therefore, we have initiated a new Open Source Project for our students to practise coding and be collaborative. 
 
-## Code scaffolding
+## Installation
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. You should have a Github account. ( if not, create a one now )
+2. Just download or clone our ecampus-web repository to your local machine.
+3. Use ```npm i``` or ```npm install``` to install all the dependencies for this Angular project.
+4. Use ```ng serve --open``` to run the Angular application.
+5. This will open up your default browser and run the application on localhost:4200.
+6. for now try out above steps until we are ready to accept your pull requests/new features.
 
-## Build
+## Usage
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Everyone can brush up/learn how to collaborate to a real world project. Since, this is an open source project, you can learn 100s of things by the community.
 
-## Running unit tests
+## Contributing
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+We are not yet ready to accept contributions/pull requests. But soon will be. Give your suggesstions and ideas regarding this project.
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## License
 
-## Further help
+MIT Licensed [MIT](https://choosealicense.com/licenses/mit/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Project status
+
+Still the very beginning.
