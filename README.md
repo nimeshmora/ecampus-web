@@ -35,7 +35,8 @@ Check the link : [Project Link](https://nimeshmora.github.io/ecampus-web/)
 
 ## Srilankan Contributors
 
-Nimesha Jinarajadasa
-Ravindu Jayaweera
-Kasun JayasingheSuneth Kanchana
-Vibuda Siromin
+Nimesha Jinarajadasa  
+Ravindu Jayaweera  
+Kasun Jayasinghe  
+Suneth Kanchana  
+Vibuda Siromin  
